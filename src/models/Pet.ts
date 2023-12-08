@@ -63,6 +63,27 @@ const data: Pet[] = [
         sex: 'Masculino'
     },
     {
+        type: 'dog',
+        image: 'pitbull.jpg',
+        name: 'Pitbull',
+        color: 'Cinza e Branco',
+        sex: 'Masculino'
+    },
+    {
+        type: 'dog',
+        image: 'shitzu.jpg',
+        name: 'Shi Tzu',
+        color: 'Caramero e Branco',
+        sex: 'Feminino'
+    },
+    {
+        type: 'dog',
+        image: 'corgi.jpg',
+        name: 'Corgi',
+        color: 'Amarelo e Branco',
+        sex: 'Masculino'
+    },
+    {
         type: 'cat',
         image: 'persa.jpg',
         name: 'Persa',
